@@ -1,0 +1,11 @@
+name: "CoinFlip"
+author: "Miquiis"
+main: "me.miquiis.coinflip.CoinFlip"
+version: "1.0-SNAPSHOT"
+
+depend: [Vault]
+
+api-version: 1.13
+
+commands:
+  coinflip:

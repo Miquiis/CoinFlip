@@ -1,0 +1,4 @@
+CoinFlip:
+  match-settings:
+    minimum-bet: 100
+    maximum-bet: 100000

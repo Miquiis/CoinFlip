@@ -1,0 +1,11 @@
+name: "${artifactId}"
+author: "${author}"
+main: "${mainClass}"
+version: "${version}"
+
+depend: [Vault]
+
+api-version: 1.13
+
+commands:
+  coinflip:
